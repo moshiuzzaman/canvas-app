@@ -1,0 +1,53 @@
+.painter{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#paint{
+  
+    border: 1px solid
+}
+.red_color_piker {
+    width: 40px;
+    height: 40px;
+    background: red;
+    margin: 20px;
+    border: none;
+    border-radius:50%
+}
+.yellow_color_piker {
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    margin: 20px;
+    border: none;
+    border-radius:50%
+}
+.blue_color_piker {
+    width: 40px;
+    height: 40px;
+    background: blue;
+    margin: 20px;
+    border: none;
+    border-radius:50%
+}
+
+.green_color_piker {
+    width: 40px;
+    height: 40px;
+    background: green;
+    margin: 20px;
+    border: none;
+    border-radius:50%
+}
+button.download {
+    background-color: white;
+    padding: 14px 52px;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    float: right;
+    font-size: 18px;
+    margin-top: 10px;
+}
